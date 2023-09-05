@@ -1,0 +1,5 @@
+#Secret_key is in secret file to stay safe.
+secret.py
+env/
+__pycache__/
+application/__pycache__/
