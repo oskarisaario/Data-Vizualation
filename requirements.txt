@@ -34,6 +34,7 @@ geopandas==0.13.2
 geoplot==0.5.1
 geopy==2.4.0
 github3.py==4.0.1
+gunicorn ==20.1.0
 idna==3.4
 ipykernel==6.25.1
 ipython==8.14.0
