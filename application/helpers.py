@@ -11,15 +11,15 @@ from application import wfs, wfs_url
 
 
 # Available data layers
-ski = list(wfs.contents)[2]         #Ladut
-kkv = list(wfs.contents)[3]         #Katujen kunnossapito vastuualueet
-ktl = list(wfs.contents)[4]         #Katujen toiminnalliset luokat
-kpo = list(wfs.contents)[5]         #Kaupunginosat
-border = list(wfs.contents)[6]      #Kaupunginraja
-keski = list(wfs.contents)[7]       #Keskilinjat
-kevyt = list(wfs.contents)[8]       #Kevytliikenne
-maa = list(wfs.contents)[12]        #Maalajikekartta perus
-postinum = list(wfs.contents)[18]      #Postinumeroalueet
+ski = list(wfs.contents)[3]         #Ladut
+kkv = list(wfs.contents)[4]         #Katujen kunnossapito vastuualueet
+ktl = list(wfs.contents)[5]         #Katujen toiminnalliset luokat
+kpo = list(wfs.contents)[6]         #Kaupunginosat
+border = list(wfs.contents)[7]      #Kaupunginraja
+keski = list(wfs.contents)[8]       #Keskilinjat
+kevyt = list(wfs.contents)[9]       #Kevytliikenne
+maa = list(wfs.contents)[13]        #Maalajikekartta perus
+postinum = list(wfs.contents)[19]      #Postinumeroalueet
 
 
 
